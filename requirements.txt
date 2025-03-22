@@ -1,0 +1,5 @@
+flask
+python-dotenv
+azure-storage-blob
+azure-storage-file-share
+gunicorn
